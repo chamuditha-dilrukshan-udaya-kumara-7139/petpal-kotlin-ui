@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PetPal" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- ✅ This line disables purple tint globally -->
+        <item name="buttonStyle">@style/CustomButton</item>
+    </style>
+
+    <style name="Theme.PetPal" parent="Base.Theme.PetPal" />
+</resources>

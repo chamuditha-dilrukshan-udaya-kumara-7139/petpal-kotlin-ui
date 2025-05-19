@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Pet Pal</string>
+    <string name="explore">Explore</string>
+    <string name="hello_chamuditha">Hello Chamuditha</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="shop_lost_pets"><![CDATA[Shop & Lost Pets]]></string>
+    <string name="health_wellness"><![CDATA[Health & Wellness]]></string>
+    <string name="keep_your_pet_s_health_on_track_with_medical_records_and_helpful_reminders">
+        Keep your pet’s health on track with medical records and helpful reminders.</string>
+    <string name="Arrow">➤</string>
+    <string name="pet_overview">Pet Overview</string>
+    <string name="todo">TODO</string>
+    <string name="health_and_wellness">Health and Wellness</string>
+    <string name="train_amp_n_socialization"><![CDATA[Train & \n Socialization]]></string>
+    <string name="training_and_socialization">Training amp \n socialization</string>
+    <string name="pets">Pets</string>
+    <string name="shop_and_n_lost_pets">Shop and \n lost pets</string>
+    <string name="welcome_backk">Welcome back!</string>
+    <string name="hello_chamudithaa">Hello Chamuditha</string>
+    <string name="search_keywords">Search keywords..</string>
+    <string name="pet_pal_logo">Pet Pal Logo</string>
+    <string name="training_nsocialization"><![CDATA[Training &\nSocialization]]></string>
+    <string name="find_the_best_pet_nproducts_or_get_help_nlocating_lost_pets">
+        Find the best pet\nproducts or get help\nlocating lost pets.</string>
+    <string name="arrow">➤</string>
+    <string name="toodoo">TODO</string>
+    <string name="login">Login</string>
+    <string name="login_to_pet_pal">Login to Pet Pal</string>
+    <string name="app_logo">App Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="emaill">Email</string>
+    <string name="passwordd">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="smart_care_for_n_happy_pets">Smart Care for\n Happy Pets!</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <style name="CustomButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@null</item> <!-- removes purple tint -->
+        <item name="android:backgroundTint">@null</item>
+    </style>
+</resources>
